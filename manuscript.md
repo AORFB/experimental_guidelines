@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes
 keywords:
 - markdown
 - publishing
@@ -7,8 +7,14 @@ keywords:
 lang: en-US
 date-meta: '2025-05-27'
 author-meta:
-- John Doe
-- Jane Roe
+- Fikile Brushett
+- Michael John Aziz
+- Solène Guiheneuf-Vacher
+- Edgar Ventosa
+- Christian Stolze
+- Ulrich Sigmar Schubert
+- Mathieu Etienne
+- Steven Le Vot
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +22,57 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
+  <meta name="citation_title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
+  <meta property="og:title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
+  <meta property="twitter:title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
   <meta name="dc.date" content="2025-05-27" />
   <meta name="citation_publication_date" content="2025-05-27" />
   <meta property="article:published_time" content="2025-05-27" />
-  <meta name="dc.modified" content="2025-05-27T09:13:16+00:00" />
-  <meta property="article:modified_time" content="2025-05-27T09:13:16+00:00" />
+  <meta name="dc.modified" content="2025-05-27T09:44:31+00:00" />
+  <meta property="article:modified_time" content="2025-05-27T09:44:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Fikile Brushett" />
+  <meta name="citation_author_institution" content="Department of Chemical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA, 02139 USA" />
+  <meta name="citation_author_orcid" content="0000-0001-5358-7181" />
+  <meta name="citation_author" content="Michael John Aziz" />
+  <meta name="citation_author_institution" content="John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA02138, USA" />
+  <meta name="citation_author_orcid" content="0000-0001-9657-9456" />
+  <meta name="citation_author" content="Solène Guiheneuf-Vacher" />
+  <meta name="citation_author_institution" content="KEMIWATT, 11 Allée de Beaulieu, 35000 Rennes, France" />
+  <meta name="citation_author" content="Edgar Ventosa" />
+  <meta name="citation_author_institution" content="ICCRAM – International Research Center in Critical Raw Materials, University of Burgos, Pza. Misael Bañuelos s/n, E-09001 Burgos, Spain" />
+  <meta name="citation_author_orcid" content="0000-0002-8993-4285" />
+  <meta name="citation_author" content="Christian Stolze" />
+  <meta name="citation_author_institution" content="Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany" />
+  <meta name="citation_author_institution" content="Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany" />
+  <meta name="citation_author_orcid" content="0000-0001-5358-7181" />
+  <meta name="citation_author" content="Ulrich Sigmar Schubert" />
+  <meta name="citation_author_institution" content="Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany" />
+  <meta name="citation_author_institution" content="Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany" />
+  <meta name="citation_author_institution" content="Helmholtz Institute for Polymers in Energy Applications Jena (HIPOLE Jena), Lessingstr. 12 – 14, 07743 Jena, Germany" />
+  <meta name="citation_author_orcid" content="0000-0003-4978-4670" />
+  <meta name="citation_author" content="Mathieu Etienne" />
+  <meta name="citation_author_institution" content="Université de Lorraine, CNRS, LCPME, F-54000 Nancy, France" />
+  <meta name="citation_author_orcid" content="0000-0003-3166-4072" />
+  <meta name="citation_author" content="Steven Le Vot" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0001-8752-7590" />
   <link rel="canonical" href="https://AORFB.github.io/experimental_guidelines/" />
   <meta property="og:url" content="https://AORFB.github.io/experimental_guidelines/" />
   <meta property="twitter:url" content="https://AORFB.github.io/experimental_guidelines/" />
   <meta name="citation_fulltext_html_url" content="https://AORFB.github.io/experimental_guidelines/" />
   <meta name="citation_pdf_url" content="https://AORFB.github.io/experimental_guidelines/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://AORFB.github.io/experimental_guidelines/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://AORFB.github.io/experimental_guidelines/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/" />
+  <meta name="manubot_html_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +94,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://AORFB.github.io/experimental_guidelines/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/))
 was automatically generated
-from [AORFB/experimental_guidelines@ca748bf](https://github.com/AORFB/experimental_guidelines/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
+from [AORFB/experimental_guidelines@6e68a69](https://github.com/AORFB/experimental_guidelines/tree/6e68a69123996855690f730338e7aae50473d4dd)
 on May 27, 2025.
 </em></small>
 
@@ -81,28 +106,72 @@ on May 27, 2025.
 
 
 
-+ **John Doe**
++ **Fikile Brushett**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [0000-0001-5358-7181](https://orcid.org/0000-0001-5358-7181)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Chemical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA, 02139 USA
   </small>
 
-+ **Jane Roe**
++ **Michael John Aziz**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-9657-9456](https://orcid.org/0000-0001-9657-9456)
+    <br>
+  <small>
+     John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA02138, USA
+  </small>
+
++ **Solène Guiheneuf-Vacher**
+  <br>
+  <small>
+     KEMIWATT, 11 Allée de Beaulieu, 35000 Rennes, France
+  </small>
+
++ **Edgar Ventosa**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-8993-4285](https://orcid.org/0000-0002-8993-4285)
+    <br>
+  <small>
+     ICCRAM – International Research Center in Critical Raw Materials, University of Burgos, Pza. Misael Bañuelos s/n, E-09001 Burgos, Spain
+  </small>
+
++ **Christian Stolze**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-5358-7181](https://orcid.org/0000-0001-5358-7181)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [csunijena](https://github.com/csunijena)
+    <br>
+  <small>
+     Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany; Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
+  </small>
+
++ **Ulrich Sigmar Schubert**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-4978-4670](https://orcid.org/0000-0003-4978-4670)
+    <br>
+  <small>
+     Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany; Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany; Helmholtz Institute for Polymers in Energy Applications Jena (HIPOLE Jena), Lessingstr. 12 – 14, 07743 Jena, Germany
+  </small>
+
++ **Mathieu Etienne**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-3166-4072](https://orcid.org/0000-0003-3166-4072)
+    <br>
+  <small>
+     Université de Lorraine, CNRS, LCPME, F-54000 Nancy, France
+  </small>
+
++ **Steven Le Vot**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [0000-0001-8752-7590](https://orcid.org/0000-0001-8752-7590)
     <br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
@@ -112,7 +181,7 @@ on May 27, 2025.
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/AORFB/experimental_guidelines/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Steven Le Vot \<steven.le-vot@umontpellier.fr\>.
 
 
 :::
