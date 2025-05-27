@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
@@ -7,24 +7,66 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - name: Fikile Brushett
+    initials: FB
+    orcid: 0000-0001-5358-7181
+    email: brushett@mit.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Department of Chemical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA, 02139 USA
+
+  - name: Michael J. Aziz
+    initials: MJA
+    orcid: 0000-0001-9657-9456
+    email: maziz@harvard.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA02138, USA
+
+  - name: Solène Guiheneuf-Vacher
+    initials: SGV
+    email: sgf@kemiwatt.com
+    affiliations:
+      - KEMIWATT, 11 Allée de Beaulieu, 35000 Rennes, France
+
+  - name: Edgar Ventosa
+    initials: EV
+    orcid: 0000-0002-8993-4285
+    email: eventosa@ubu.es
+    affiliations:
+      - ICCRAM – International Research Center in Critical Raw Materials, University of Burgos, Pza. Misael Bañuelos s/n, E-09001 Burgos, Spain
+
+  - github: csunijena
+    name: Christian Stolze
+    initials: CS
+    orcid: 0000-0001-5358-7181
+    email: christian.stolze@uni-jena.de
+    affiliations:
+      - Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany
+      - Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
     corresponding: true
+
+  - name: Ulrich S. Schubert
+    initials: USS
+    orcid: 0000-0003-4978-4670
+    email: ulrich.schubert@uni-jena.de
+    affiliations:
+      - Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany
+      - Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
+      - Helmholtz Institute for Polymers in Energy Applications Jena (HIPOLE Jena), Lessingstr. 12 – 14, 07743 Jena, Germany
+
+  - name: Mathieu Etienne
+    initials: ME
+    orcid: 0000-0003-3166-4072
+    email: mathieu.etienne@cnrs.fr
+    affiliations:
+      - Université de Lorraine, CNRS, LCPME, F-54000 Nancy, France
+
+  - name: Steven Le Vot
+    initials: SLV
+    orcid: 0000-0001-8752-7590
+    email: steven.le-vot@umontpellier.fr
+    affiliations:
+      - ICGM, Univ. Montpellier, CNRS, ENSCM, 34293 Montpellier, France
+      - Réseau sur le Stockage Electrochimique de l'énergie (RS2E), FR CNRS 3459, France
+    corresponding: true
+#    funders:
+#      - Grant XXXXXXXX
