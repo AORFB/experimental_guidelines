@@ -8,11 +8,11 @@ lang: en-US
 date-meta: '2025-05-27'
 author-meta:
 - Fikile Brushett
-- Michael John Aziz
+- Michael J. Aziz
 - Solène Guiheneuf-Vacher
 - Edgar Ventosa
 - Christian Stolze
-- Ulrich Sigmar Schubert
+- Ulrich S. Schubert
 - Mathieu Etienne
 - Steven Le Vot
 header-includes: |
@@ -29,8 +29,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-27" />
   <meta name="citation_publication_date" content="2025-05-27" />
   <meta property="article:published_time" content="2025-05-27" />
-  <meta name="dc.modified" content="2025-05-27T09:44:31+00:00" />
-  <meta property="article:modified_time" content="2025-05-27T09:44:31+00:00" />
+  <meta name="dc.modified" content="2025-05-27T12:10:59+00:00" />
+  <meta property="article:modified_time" content="2025-05-27T12:10:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,7 +40,7 @@ header-includes: |
   <meta name="citation_author" content="Fikile Brushett" />
   <meta name="citation_author_institution" content="Department of Chemical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA, 02139 USA" />
   <meta name="citation_author_orcid" content="0000-0001-5358-7181" />
-  <meta name="citation_author" content="Michael John Aziz" />
+  <meta name="citation_author" content="Michael J. Aziz" />
   <meta name="citation_author_institution" content="John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA02138, USA" />
   <meta name="citation_author_orcid" content="0000-0001-9657-9456" />
   <meta name="citation_author" content="Solène Guiheneuf-Vacher" />
@@ -52,7 +52,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany" />
   <meta name="citation_author_institution" content="Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany" />
   <meta name="citation_author_orcid" content="0000-0001-5358-7181" />
-  <meta name="citation_author" content="Ulrich Sigmar Schubert" />
+  <meta name="citation_author" content="Ulrich S. Schubert" />
   <meta name="citation_author_institution" content="Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany" />
   <meta name="citation_author_institution" content="Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany" />
   <meta name="citation_author_institution" content="Helmholtz Institute for Polymers in Energy Applications Jena (HIPOLE Jena), Lessingstr. 12 – 14, 07743 Jena, Germany" />
@@ -61,8 +61,8 @@ header-includes: |
   <meta name="citation_author_institution" content="Université de Lorraine, CNRS, LCPME, F-54000 Nancy, France" />
   <meta name="citation_author_orcid" content="0000-0003-3166-4072" />
   <meta name="citation_author" content="Steven Le Vot" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="ICGM, Univ. Montpellier, CNRS, ENSCM, 34293 Montpellier, France" />
+  <meta name="citation_author_institution" content="Réseau sur le Stockage Electrochimique de l&#39;énergie (RS2E), FR CNRS 3459, France" />
   <meta name="citation_author_orcid" content="0000-0001-8752-7590" />
   <link rel="canonical" href="https://AORFB.github.io/experimental_guidelines/" />
   <meta property="og:url" content="https://AORFB.github.io/experimental_guidelines/" />
@@ -70,9 +70,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://AORFB.github.io/experimental_guidelines/" />
   <meta name="citation_pdf_url" content="https://AORFB.github.io/experimental_guidelines/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://AORFB.github.io/experimental_guidelines/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/" />
-  <meta name="manubot_html_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/" />
+  <meta name="manubot_html_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/" />
+  <meta name="manubot_pdf_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -94,9 +94,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/))
+([permalink](https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/))
 was automatically generated
-from [AORFB/experimental_guidelines@6e68a69](https://github.com/AORFB/experimental_guidelines/tree/6e68a69123996855690f730338e7aae50473d4dd)
+from [AORFB/experimental_guidelines@6ecc20d](https://github.com/AORFB/experimental_guidelines/tree/6ecc20dc42f5fc4062d97e4b1c51707836cdd887)
 on May 27, 2025.
 </em></small>
 
@@ -115,7 +115,7 @@ on May 27, 2025.
      Department of Chemical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA, 02139 USA
   </small>
 
-+ **Michael John Aziz**
++ **Michael J. Aziz**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-9657-9456](https://orcid.org/0000-0001-9657-9456)
@@ -140,7 +140,7 @@ on May 27, 2025.
   </small>
 
 + **Christian Stolze**
-  <br>
+  ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-5358-7181](https://orcid.org/0000-0001-5358-7181)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
@@ -150,7 +150,7 @@ on May 27, 2025.
      Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany; Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
   </small>
 
-+ **Ulrich Sigmar Schubert**
++ **Ulrich S. Schubert**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0003-4978-4670](https://orcid.org/0000-0003-4978-4670)
@@ -174,13 +174,14 @@ on May 27, 2025.
     [0000-0001-8752-7590](https://orcid.org/0000-0001-8752-7590)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     ICGM, Univ. Montpellier, CNRS, ENSCM, 34293 Montpellier, France; Réseau sur le Stockage Electrochimique de l'énergie (RS2E), FR CNRS 3459, France
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/AORFB/experimental_guidelines/issues)
 or email to
+Christian Stolze \<christian.stolze@uni-jena.de\>, 
 Steven Le Vot \<steven.le-vot@umontpellier.fr\>.
 
 
