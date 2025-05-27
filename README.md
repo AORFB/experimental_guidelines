@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/AORFB/experimental_guidelines/tree/gh-pages) branch hosts the contents of this directory at <https://AORFB.github.io/experimental_guidelines/>.
-The permalink for this webpage version is <https://AORFB.github.io/experimental_guidelines/v/6e68a69123996855690f730338e7aae50473d4dd/>.
+The permalink for this webpage version is <https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://AORFB.github.io/experimental_guidelines/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`6e68a69123996855690f730338e7aae50473d4dd`](https://github.com/AORFB/experimental_guidelines/commit/6e68a69123996855690f730338e7aae50473d4dd).
+[`6ecc20dc42f5fc4062d97e4b1c51707836cdd887`](https://github.com/AORFB/experimental_guidelines/commit/6ecc20dc42f5fc4062d97e4b1c51707836cdd887).
