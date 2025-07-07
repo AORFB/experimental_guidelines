@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-05-27'
+date-meta: '2025-07-07'
 author-meta:
 - Fikile Brushett
 - Michael J. Aziz
@@ -26,11 +26,11 @@ header-includes: |
   <meta name="citation_title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
   <meta property="og:title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
   <meta property="twitter:title" content="Experimental guidelines and procedures for assessing aqueous organic redox flow battery electrolytes" />
-  <meta name="dc.date" content="2025-05-27" />
-  <meta name="citation_publication_date" content="2025-05-27" />
-  <meta property="article:published_time" content="2025-05-27" />
-  <meta name="dc.modified" content="2025-05-27T12:10:59+00:00" />
-  <meta property="article:modified_time" content="2025-05-27T12:10:59+00:00" />
+  <meta name="dc.date" content="2025-07-07" />
+  <meta name="citation_publication_date" content="2025-07-07" />
+  <meta property="article:published_time" content="2025-07-07" />
+  <meta name="dc.modified" content="2025-07-07T11:09:26+00:00" />
+  <meta property="article:modified_time" content="2025-07-07T11:09:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -64,15 +64,15 @@ header-includes: |
   <meta name="citation_author_institution" content="ICGM, Univ. Montpellier, CNRS, ENSCM, 34293 Montpellier, France" />
   <meta name="citation_author_institution" content="Réseau sur le Stockage Electrochimique de l&#39;énergie (RS2E), FR CNRS 3459, France" />
   <meta name="citation_author_orcid" content="0000-0001-8752-7590" />
-  <link rel="canonical" href="https://AORFB.github.io/experimental_guidelines/" />
-  <meta property="og:url" content="https://AORFB.github.io/experimental_guidelines/" />
-  <meta property="twitter:url" content="https://AORFB.github.io/experimental_guidelines/" />
-  <meta name="citation_fulltext_html_url" content="https://AORFB.github.io/experimental_guidelines/" />
-  <meta name="citation_pdf_url" content="https://AORFB.github.io/experimental_guidelines/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://AORFB.github.io/experimental_guidelines/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/" />
-  <meta name="manubot_html_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/" />
-  <meta name="manubot_pdf_url_versioned" content="https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/manuscript.pdf" />
+  <link rel="canonical" href="https://rfb-data-hub.github.io/experimental-guidelines/" />
+  <meta property="og:url" content="https://rfb-data-hub.github.io/experimental-guidelines/" />
+  <meta property="twitter:url" content="https://rfb-data-hub.github.io/experimental-guidelines/" />
+  <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/experimental-guidelines/" />
+  <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/experimental-guidelines/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/experimental-guidelines/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -94,10 +94,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://AORFB.github.io/experimental_guidelines/v/6ecc20dc42f5fc4062d97e4b1c51707836cdd887/))
+([permalink](https://rfb-data-hub.github.io/experimental-guidelines/v/0ff96afd6f0c279e8c741d92a87964783dc73018/))
 was automatically generated
-from [AORFB/experimental_guidelines@6ecc20d](https://github.com/AORFB/experimental_guidelines/tree/6ecc20dc42f5fc4062d97e4b1c51707836cdd887)
-on May 27, 2025.
+from [rfb-data-hub/experimental-guidelines@0ff96af](https://github.com/rfb-data-hub/experimental-guidelines/tree/0ff96afd6f0c279e8c741d92a87964783dc73018)
+on July 7, 2025.
 </em></small>
 
 
@@ -179,7 +179,7 @@ on May 27, 2025.
 
 
 ::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/AORFB/experimental_guidelines/issues)
+✉ — Correspondence possible via [GitHub Issues](https://github.com/rfb-data-hub/experimental-guidelines/issues)
 or email to
 Christian Stolze \<christian.stolze@uni-jena.de\>, 
 Steven Le Vot \<steven.le-vot@umontpellier.fr\>.
@@ -190,7 +190,7 @@ Steven Le Vot \<steven.le-vot@umontpellier.fr\>.
 
 ## Abstract {.page_break_before}
 
-
+This is the abstract for the experimental guideline manuscript. This is another addition to test the Git implementation in Obsidian.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
