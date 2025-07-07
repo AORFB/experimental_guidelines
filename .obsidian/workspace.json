@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/01.abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01.abstract"
+              "title": "Backlinks"
             }
           },
           {
@@ -180,10 +179,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7c2341beb6f5dfcd",
+  "active": "78e1495a725d7aec",
   "lastOpenFiles": [
-    "content/02.delete-me.md",
     "content/01.abstract.md",
+    "content/02.delete-me.md",
     "content/00.front-matter.md"
   ]
 }
